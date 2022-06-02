@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anu-plenty25
+- 👋 Hi, I’m Anuoluwapo Ogunrinde
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning modelling algorithms
 - 💞️ I’m looking to collaborate on research based on Machine Learning
