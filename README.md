@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anuoluwapo Ogunrinde
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning modelling algorithms
-- 💞️ I’m looking to collaborate on research based on Machine Learning
+- 🌱 I’m currently learning modeling algorithms
+- 💞️ I’m looking to collaborate Machine Learning
 - 📫 you can reach me at anuoluwapoelizabeth73@gmail.com or +2347066085576
 
 <!---
